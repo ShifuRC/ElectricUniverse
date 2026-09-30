@@ -1,0 +1,9 @@
+# Local machine reports and handoff material are not publication inputs.
+/output/
+/EPEMC-control-test-*.txt
+/CODEX_EPEMC_Work_Order*.md
+/Forward_Engineering_*.docx
+/Citation Tree Project*.xlsx
+/desktop.ini
+.env
+.env.*
